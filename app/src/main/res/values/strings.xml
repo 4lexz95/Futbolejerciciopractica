@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Futbol</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="sp_equipos">
+        <item>Selecciona un equipo</item>
+        <item>Valencia FC</item>
+        <item>Barcelona</item>
+        <item>Real Madrid</item>
+        <item>Rayo Vallecano</item>
+        <item>Real Murcia</item>
+        <item>Requeativo de Huelva</item>
+    </string-array>
+</resources>
